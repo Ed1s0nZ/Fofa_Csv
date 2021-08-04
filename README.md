@@ -1,5 +1,5 @@
 # Fofa_Csv
-Fofa爬取到的数据输出到Csv中
+爬取Fofa搜索引擎搜索到的信息，然后输出到Csv中。
 ## 配置：
 1. 为fofa.py配置Email & Key & search_size(根据会员等级配置)
 
