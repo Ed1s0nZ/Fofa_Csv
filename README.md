@@ -6,4 +6,4 @@
 ## 用法：
 1. 在jiangnan.txt中创建需要查询的信息(单条可以是组合查询)
 2. 运行fofa.py 
-3. 自动导出 jiangnan.csv
+3. 脚本自动生成 jiangnan.csv
