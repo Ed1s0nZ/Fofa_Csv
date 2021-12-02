@@ -50,7 +50,7 @@ if __name__ == "__main__":
     key = "*****************************"
     search_size = "10000"  # 高级会员10000条
     name = "jiangnan"
-    assets_all = []
+    assets_all = [["域名","IP","Title","Server"]]
     with open(name + '.txt', 'r', encoding='utf-8') as f:  # encoding='utf-8'
         lines = f.readlines()
     for line in lines:
