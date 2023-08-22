@@ -11,7 +11,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='gb18030')  # 改变�
 
 
 def search(qbase64):
-    url = "https://fofa.so/api/v1/search/all/"
+    url = "https://fofa.info/api/v1/search/all/"
     params = {
 
         'email': email,
